@@ -1,4 +1,4 @@
-# ALS Recommendation Mining Using Scala and Apaceh Spark #
+# ALS Recommendation Mining Using Scala and Apache Spark #
 
 * movlens - MovieLens 영화 평가 데이터
 * ALS.scala - Spark Shell에서 실행하기 위한 추천 로직
